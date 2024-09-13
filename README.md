@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+[x] Create a new Next.js app with the default settings.
+[x] Use tutorial https://ellertsmarik.medium.com/json-api-using-next-js-13-and-mongodb-f45e8e61b031
+
 First, run the development server:
 
 ```bash
